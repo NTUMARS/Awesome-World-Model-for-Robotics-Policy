@@ -565,6 +565,9 @@ This repository accompanies our survey **World Model for Robot Learning: A Compr
 
 - **[arXiv'26.01] DrivingGen** — *DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving*  
   [![arXiv](https://img.shields.io/badge/arXiv-2601.01528-b31b1b.svg)](https://arxiv.org/abs/2601.01528) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drivinggen-bench.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/youngzhou1999/DrivingGen)
+  
+- **[EMNLP Findings'26] RoboTrustBench** — *RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.01600-b31b1b.svg)](https://arxiv.org/abs/2606.01600) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://huiqiongli.github.io/RoboTrustBench/)
 
 ---
 
