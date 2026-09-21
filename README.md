@@ -150,6 +150,9 @@ This repository accompanies our survey **World Model for Robot Learning: A Compr
 
 > Unified Policies with Single World Model Backbone: a single shared backbone jointly models video and action through joint diffusion/prediction.
 
+- **[ECCV'26] DriveVA** — *Video Action Models are Zero-Shot Drivers*  
+  [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/xiaomi-mlab/DriveVA)
+
 - **[RSS'25] UVA** — *Unified Video Action Model*  
   [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://www.roboticsproceedings.org/rss21/p074.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ShuangLI59/unified_video_action) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://unified-video-action-model.github.io/)
 
