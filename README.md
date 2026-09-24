@@ -308,6 +308,9 @@ This repository accompanies our survey **World Model for Robot Learning: A Compr
 - **[arXiv'26.04] DexWorldModel** — *DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks*  
   [![arXiv](https://img.shields.io/badge/arXiv-2604.16484-b31b1b.svg)](https://arxiv.org/abs/2604.16484) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/DexForce/EmbodiChain)
 
+- **[arXiv'26.09] LeWAM** — *Latent evolving World Action Model*
+  [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/XuejiFang/LeWAM) [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/XuejiFang/LeWAM)
+
 
 ---
 <a id="world-models-as-simulator"></a>
