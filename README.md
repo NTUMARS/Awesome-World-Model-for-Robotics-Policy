@@ -487,6 +487,9 @@ This repository accompanies our survey **World Model for Robot Learning: A Compr
 - **[Tech Release'25.09] UnifoLM-WMA-0** — *UnifoLM-WMA-0: A World-Model-Action Framework for General-Purpose Robot Learning*  
   [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/unitreerobotics/unifolm-world-model-action) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://unigen-x.github.io/unifolm-world-model-action.github.io/)
 
+- **[Tech Report'25.03] Cosmos Transfer1** — *Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.14492-b31b1b.svg)](https://arxiv.org/abs/2503.14492) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
 - **[Tech Report'25.10] Cosmos Predict 2.5** — *Cosmos-Predict2.5: A Suite of Diffusion-based World Foundation Models*  
   [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/nvidia-cosmos/cosmos-predict2.5) [![Website](https://img.shields.io/badge/Website-NVIDIA-76B900.svg)](https://research.nvidia.com/labs/dir/cosmos-predict2.5/)
 
@@ -629,11 +632,17 @@ This repository accompanies our survey **World Model for Robot Learning: A Compr
 - **[ICRA'25] EgoMimic** — *EgoMimic: Scaling Imitation Learning via Egocentric Video*  
   [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://ieeexplore.ieee.org/document/11127989) [![arXiv](https://img.shields.io/badge/arXiv-2410.24221-b31b1b.svg)](https://arxiv.org/abs/2410.24221) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://egomimic.github.io/)
 
+- **[ICLR'25] LAPA** — *Latent Action Pretraining from Videos*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2410.11758-b31b1b.svg)](https://arxiv.org/abs/2410.11758) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/LatentActionPretraining/LAPA)
+
 - **[RSS'25] DexWild** — *DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies*  
   [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dexwild.github.io/)
 
 - **[arXiv'25.07] Being-h0 (UniHand)** — *Being-h0: Vision-Language-Action Pretraining from Large-scale Human Videos*  
   [![arXiv](https://img.shields.io/badge/arXiv-2507.15597-b31b1b.svg)](https://arxiv.org/abs/2507.15597) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://beingbeyond.github.io/Being-H0/) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/BeingBeyond/Being-H0) [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/collections/BeingBeyond/being-h0)
+
+- **[arXiv'25.09] LAWM** — *Latent Action Pretraining Through World Modeling*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.18428-b31b1b.svg)](https://arxiv.org/abs/2509.18428) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/baheytharwat/lawm)
 
 - **[arXiv'26.01] Being-H0.5 (UniHand 2.0)** — *Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization*  
   [![arXiv](https://img.shields.io/badge/arXiv-2601.12993-b31b1b.svg)](https://arxiv.org/abs/2601.12993) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://research.beingbeyond.com/being-h05) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/BeingBeyond/Being-H) [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/collections/BeingBeyond/being-h05)
